@@ -6,10 +6,10 @@
 ### <div align="center">I'm Manas Bajpai, a full-stack web and app developer learning since 2022🚀</div>  
   
 
-- 🔭 I’m currently working on a To-Do List App.  
+- 🔭 I’m currently working on Geolocation app.  
   
 
-- 🌱 I’m currently mastering JavaScript and ReactJS.   
+- 🌱 I’m currently mastering Flutter and Firebase.   
   
 
 - ❓ Ask me about anything related to MERN stack, Django, Flutter or related technologies.  
