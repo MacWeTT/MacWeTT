@@ -6,13 +6,13 @@
 ### <div align="center">I'm Manas Bajpai, a full-stack web and app developer learning since 2022🚀</div>  
   
 
-- 🔭 I’m currently working on Geolocation app.  
+- 🔭 I’m currently working on Reddit Clone.  
   
 
-- 🌱 I’m currently mastering Flutter and Firebase.   
+- 🌱 I’m currently mastering Next.js & Firebase.   
   
 
-- ❓ Ask me about anything related to MERN stack, Django, Flutter or related technologies.  
+- ❓ Ask me about anything related to React, Django, React-Native or related technologies.  
   
 
 - ⚡ Fun fact: One tab is better than 4 spaces  
