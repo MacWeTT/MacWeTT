@@ -6,7 +6,7 @@
 ### <div align="center">I'm Manas Bajpai, a full-stack web and app developer learning since 2022🚀</div>  
   
 
-- 🔭 I’m currently working on Reddit Clone.  
+- 🔭 I’m currently working on HACHE 2023.  
   
 
 - 🌱 I’m currently mastering Next.js & Firebase.   
