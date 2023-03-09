@@ -6,10 +6,10 @@
 ### <div align="center">I'm Manas Bajpai, a full-stack web and app developer learning since 2022🚀</div>  
   
 
-- 🔭 I’m currently working on HACHE 2023.  
+- 🔭 I’m currently working on Pokedex.  
   
 
-- 🌱 I’m currently mastering Next.js & Firebase.   
+- 🌱 I’m currently mastering Django, React and TypeScript.   
   
 
 - ❓ Ask me about anything related to React, Django, React-Native or related technologies.  
