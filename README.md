@@ -13,11 +13,11 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" height="24px"/> and passionate<img src="./assets/animated-flame-01.gif" height="24px"/> about coding! </h2><br>
 
-- 👨‍💻 I'm Manas Bajpai (MacWeTT), a passionate and self-taught programmer. Currently, I'm pursuing a Computer Science degree in India. <br><br><br>
+- 👨‍💻 I'm Manas Bajpai (MacWeTT), a passionate and self-taught programmer. Currently, I'm a Frontend Engineer @Toddle. <br><br><br>
 
-- 🌳 I’m currently learning Django and React. <br><br><br>
+- 🌳 I’m currently learning React-Native and GraphQL. <br><br><br>
 
-- 🌊 2023 Goals: Learn Django, FastAPI, and get a complete hands-on on backend development. <br><br><br>
+- 🌊 2024 Goals: Master @Codeforces and learn operating systems in depth <br><br><br>
 
 - ☕ Interests: Video Games, Coding, and Astronomy. <br><br><br>
 
